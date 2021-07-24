@@ -3,7 +3,7 @@
 1. Go to the Folder where you want to open Jupyter Notebook.
 2. Open CMD from the folder path.
 3. In CMD, type **jupyter notebook**
-![alt text](https://github.com/BinitPandit94/Python-Tips-and-Tricks/tree/main/1.%20Opening%20Jupyter%20Notebook%20in%20your%20desired%20folder/images/cmd.jpg?raw=true)
+
 **Tip 2: **
 1. For windows, from search menu type and open Anaconda Prompt.
 2. In the Anaconda Prompt, type **jupyter notebook --notebook-dir=E:**
