@@ -8,4 +8,4 @@
 1. For windows, from search menu type and open Anaconda Prompt.
 2. In the Anaconda Prompt, type **jupyter notebook --notebook-dir=E:**
 3. Jupyter Notebook will be opened at the desired Drive, then go to the folder where you wish to work from the Jupyter Notebook.
-https://github.com/BinitPandit94/Python-Tips-and-Tricks/blob/main/1.%20Opening%20Jupyter%20Notebook%20in%20your%20desired%20folder/images/anaconda%20prompt.JPG
+![] (images/anaconda%20prompt.JPG)
